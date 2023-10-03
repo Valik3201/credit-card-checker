@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Valik3201/credit-card-checker/issues"
   },
-  "homepage": "https://github.com/Valik3201/credit-card-checker#readme"
+  "homepage": "https://github.com/Valik3201/credit-card-checker#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
