@@ -1,0 +1,27 @@
+{
+  "name": "credit-card-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valik3201/credit-card-checker.git"
+  },
+  "keywords": [
+    "javascript",
+    "challenge",
+    "data-validation",
+    "codecademy",
+    "luhn-algorithm",
+    "credit-card-validation"
+  ],
+  "author": "Valik3201",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valik3201/credit-card-checker/issues"
+  },
+  "homepage": "https://github.com/Valik3201/credit-card-checker#readme"
+}
